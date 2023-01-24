@@ -36,10 +36,10 @@ nav {
 
 h1 {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 36px;
-    margin-top: ;
-    margin-bottom: ;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 p {
@@ -56,12 +56,10 @@ p {
 
 article {
     background-color: black;
-    padding: ;
+    padding:100px ;
     width: 400px;
-    margin: ;
-    display: flex;
+    margin: 100px;
     color: white;
-
 }
 
 .article-but {
@@ -75,12 +73,12 @@ article {
 
 footer {
     background-color: white;
-    padding: ;
+    padding:30px ;
     display: flex;
 }
 
 footer a {
-    margin-right: ;
+    margin-right:30px ;
 }
 
 footer p {
